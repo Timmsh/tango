@@ -73,12 +73,12 @@ def findColor(pic, hFOV, vFOV, pt):
     return (r, g, b)
 
 def processFile(datafile, imgfile):
-    inp = open(datafile, "r")
+    inp = open(datafile, "rb")
     pic = Image.open(imgfile)
 
     # Read translation
     trans = np.array(struct.unpack("<3d", inp.read(3*8)))
-    print "Offset", trans
+    print ("Offset", trans)
 
     # Read rotation
     quaternion = np.array(struct.unpack("<4d", inp.read(4*8)))
@@ -121,10 +121,13 @@ def processDir(dir):
     index = 1
     while True:
         datafile = "%s/Scan%05d.data" % (dir, index)
+        print datafile
         imgfile = "%s/tango%05d.png" % (dir, index)
+        print imgfile
         if os.access(datafile, os.R_OK) and os.access(imgfile, os.R_OK):
             processFile(datafile, imgfile)
         else:
+            print "Hellloooo...."
             break
         index = index+1
 

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-676832ce1a174bb152744d307026ecc59b323e94.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c5ef285d2d02a75994205e5c58682125c4c35dcc.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-de93350a3586f63fbd6de3494a7a2cda6d093858.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-bc83aba59b48fbaff041bc3a2d2b45377ace3bc7.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-3e4cf0172df47c9e3f826a016ce23f9103d1ddd6.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\PointCloudJava\TangoUtils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="75b9fa5cb81bb8f954d4ab7f291c3f9663803e8c">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c1cbea25814334b5f876c455c39f514f58e60edc.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-3532a246904dfcce7474076a8932c2e0294e9a95.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-1513110c6c9ca94fd075d59630c3984353cbfed4.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-b75ed1cceb547df236409da982adc8d40bbe7318.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-3585c6ba64c5880c07a98aba644a0eb780f41506.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-d5d7005a823f1f0a8674306aeb45a7f827d2d545.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\PointCloudJava\TangoUtils\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\android-support-v4-5b9c17e86788c03db9517c6f10a357dc9478d208.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-42ba4bf7b2feff108aa0d41c5351552f300f4079.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-58db4fb93fc7ff059bd158119899a177c2e33369.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-29de5d4baad1d18cff3e55d5fc6d9076bdc8ee97.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-44d583c6de6d3d5dec9a634c04e2d0fab1210272.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-976a1b79b3df03c1e2a7bece0eed0e4d4792d55b.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-d672f42ed645aa9e5493d989647450d3860b1720.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-9b48e37b2320b904ef57fc7513260ff5337bb5fe.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-81e4a935afc3305b61271250d59203932d3b84c0.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\src\TangoSDK_Nash.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cee1f04897214dbfe7850cd64a59452c42ed3c08">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\TangoSDK_Nash-143051a6767db70e99904cc33edc3afdeb0ea5a9.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-67f0a28281c22865aad40dbb929069dfd69d1af9.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-48661dd45417451a76bf3d06c887df0eacfe468d.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-15d5a4578a729ddf3de16e73ef6eec07b8d7da77.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9d38f643d4d8308bbadf7e60a011a815845eefaa.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-3c7b0eba83f0e150f922ac1f80ae8ba111cfe6b5.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-ca09a4cf5eb72fe28de46e646fbc36a51f223d4b.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\PointCloudJava\TangoUtils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ca1ca2ca5d2019f77ddfb056b619fcfe3269e0c">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-0db75ebad052882f7b3c982aba3cd91a844402e7.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-4709543a2dd6bd7bd76b0d08d182971cad81b0cc.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-48a4075e3ed81c1d8ad8e6dcb4db65334fb0f3b0.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-1e6c42bfab3c9dd84d6eb1a8c25f3d7d88fbb9fa.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-e00b2b03fff80521d64df67a0c92d452788762a0.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-9726ebc304d002605c799cf86e810871704e63d3.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-2c908691458b4b9c93e2c1c516ffe8c82731468e.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-685a1f8692784335120f43f502cb3ec2c7cb5fdb.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-4b6216ee61eec9da3b0820e879f19d6a30555313.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\src\tango_java_lib.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cee1f04897214dbfe7850cd64a59452c42ed3c08">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\tango_java_lib-fddd0f2c2604a1c0ee0dac55996252ccdd2ea81d.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-cf67d3ee853580429869177fa8a3451fbfe6e0a2.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-f2b9048edf3752863fb43999a580ab6a15d01cd6.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c1fd73a95e95134e02ba03b5c64c43c7272450e3.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-5847af7cbab093f26ee688fdf09e4940bbaf35d2.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-0c56f54c0218b3b21adad500b683f902c6652239.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-b499d445ce68f69ea2e74e5f961cd06165b77f61.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2bcee2099217ed9e54d4f95cffec760e4a693908.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-371a17e31f49be73a41eb90c44783342ec715f5b.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-aa94637bded32090ca951d47706e75e0e6ef1757.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-29f23299c543fc2569b5d878dc0fffa85bffad66.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-a38490abc65d246c7801e62a744c36e2dfe3461b.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-d3b4536d7317b42145d160dafdac8ca261dadcdd.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-851444265549d4c958ec7f1c00fa069bc569d3c8.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c59aaf91c0323de50555e9264d579360453c698a.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-20b95cb76c1238ef6b5c553a7de48f98f3eda099.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c268e3bd0ab4b4980fc179de133e21b99bb5a53c.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-c5007a9e800f5291ece7e0ae76738da476586d9a.jar" />
+    </item>
+    <item
+        jar="C:\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-a084343de1262f3bf281d3a7ba78b94b5eb0032e.jar" />
+    </item>
+    <item
+        jar="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\data\the20977\Downloads\tango-master3\tango-master\PointCloudJava\pointCloudJava\build\intermediates\pre-dexed\debug\classes-88ac4149385d50d46996c03e5b659ab1d9a4d092.jar" />
+    </item>
+
+</items>
